@@ -14,10 +14,15 @@ The goal was to create a clean and accessible login interface and manage the dev
 ✨ **Features**
 
  Designed a login page using "HTML" and "CSS"
+
  Created a visually appealing form with proper alignment and structure
+ 
  Ensured responsive layout using CSS styling
+ 
  Maintained clean and readable code
+ 
  Managed work using "six Git branches"
+ 
  Followed structured workflow using Git and GitHub
 
 
