@@ -31,13 +31,21 @@ The goal was to create a clean and accessible login interface and manage the dev
 💻 Git Commands I Used
 
 pwd                         → To check current folder
+
 mkdir Team-11_NewProject    → To create a new folder
+
 cd Team-11_NewProject       → To enter the folder
+
 git init                    → To start Git tracking
+
 git checkout B1             → To create and switch to new branch
+
 git add .                   → To save changes to staging
+
 git commit -m "message"     → To commit changes
+
 git merge B1                → To combine all branches into main
+
 git push                    → To upload project to GitHub
 
 📌Getting Started
